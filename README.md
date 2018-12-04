@@ -1,0 +1,2 @@
+# DuSlick
+DiscordTheme
